@@ -1,7 +1,7 @@
 <h2 align="left">💫About Me:</h2>
 
 <p align="left">
-  I am Anoop Rastogi, a final year student at Thapar Institute of Engineering and Technology, Patiala, and I aim to become a proficient software engineer. I am currently scaling up my MERN skills, learning more frameworks, and developing my cloud skills. I also have some experience working with generative AI and LLMs. <br> Fun fact: I love to play football ⚽ and am a huge Barcelona fan.
+  I am Anoop Rastogi, a final year student at Thapar Institute of Engineering and Technology, Patiala, and I aim to become a proficient software engineer. I am currently scaling up my MERN skills, learning more frameworks, and developing my cloud skills. I also have some experience working with generative AI and LLMs. <br> Fun fact: I love to play football ⚽
 </p>
 
 <h2 align="left">🌐 Socials:</h2>
