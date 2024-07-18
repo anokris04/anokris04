@@ -36,7 +36,7 @@
 
 </p>
 
-# 📊 GitHub Stats:
+<h2 align="left>📊 Github Stats:</h2>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=anokris04&theme=radical&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anokris04&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
 
