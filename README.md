@@ -36,9 +36,16 @@
 
 </p>
 
-<h2 align="left>📊 Github Stats:</h2>
-![](https://github-readme-streak-stats.herokuapp.com/?user=anokris04&theme=radical&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anokris04&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact)
+<h2 align="left">📊 Github Stats:</h2>
+<p align="left">
+  <a href="https://github-readme-streak-stats.herokuapp.com/?user=anokris04&theme=radical&hide_border=true">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=anokris04&theme=radical&hide_border=true" alt="Streak Stats" />
+  </a>
+  <a href="https://github-readme-stats.vercel.app/api/top-langs/?username=anokris04&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anokris04&theme=radical&hide_border=true&include_all_commits=true&count_private=false&layout=compact" alt="Top Langs" />
+  </a>
+</p>
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=anokris04&icon=0&color=12private=true)](https://visitcount.itsvg.in)
